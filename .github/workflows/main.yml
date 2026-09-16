@@ -18,5 +18,5 @@ jobs:
       - name: Install Dependencies
         run: npm install
       - name: Build
-        run: ng build
+        run: npx ng build
         
